@@ -16,8 +16,20 @@ import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
+import com.squareup.okhttp.MediaType;
+import com.squareup.okhttp.Request;
+import com.squareup.okhttp.RequestBody;
+import com.squareup.okhttp.Response;
+import com.squareup.okhttp.ResponseBody;
+
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.IOException;
+
 import control.user.com.usercontrol.R;
 import control.user.com.usercontrol.database.DbEntryService;
+
+import static control.user.com.usercontrol.act.MainActivity.client;
 
 
 /**
@@ -27,6 +39,7 @@ public class LoginActivity extends AppCompatActivity{
 
     private static final String TAG = LoginActivity.class.getSimpleName();
 
+    private static final String SERVICE_URI = "http://www.example.com";
     // UI references.
     private LinearLayout signInLayout;
     private LinearLayout signUpLayout;
@@ -376,16 +389,36 @@ public class LoginActivity extends AppCompatActivity{
         };
     }
 
-    private AsyncTask<Void, Void, String> getSignInTask(final String email, final String pass){
-        return new AsyncTask<Void, Void, String>(){
+    private AsyncTask<Void, Void, Boolean> getSignInTask(final String email, final String pass){
+        return new AsyncTask<Void, Void, Boolean>(){
             @Override
-            protected String doInBackground(Void... params){
-
-                return null;
+            protected Boolean doInBackground(Void... params){
+                //boolean login = DbEntryService.login(email, pass);
+                //return login;
+                try {
+                    MediaType JSON = MediaType.parse("application/json; charset=utf-8");
+                    RequestBody body = RequestBody.create(JSON, email + "___" + pass);
+                    //Email ve pass body ye eklendi
+                    Request request = new Request.Builder()
+                            .url(SERVICE_URI + "/login")
+                            .post(body)
+                            .build();
+                    Response response = client.newCall(request).execute(); //Çağrı yapıldı response alındı
+                    ResponseBody responseBody = response.body();
+                    byte[] bytes = responseBody.bytes();//Dosya byte array olarak alındı
+                    File f = new File("zipfile.zip");//File oluşturuldu
+                    FileOutputStream fos = new FileOutputStream(f);//File açıldı
+                    fos.write(bytes);//Byte array yazıldı
+                    fos.close();
+                    return true;
+                } catch (IOException e) {
+                    e.printStackTrace();
+                    return false;
+                }
             }
 
             @Override
-            protected void onPostExecute(String s){
+            protected void onPostExecute(Boolean s){
                 siButton.setEnabled(true);
 
             }
