@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/emse/İndirilenler/Proje3-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
+            "map": [
+                {
+                    "source": "/home/emse/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/c1f011897da23a20136a91b41f9224e3/res/values-v13/values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/emse/İndirilenler/Proje3-master/C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+            "map": [
+                {
+                    "source": "/home/emse/İndirilenler/Proje3-master/C:\\Users\\AzizBaybur\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\aeb149fd85c56e3cf5292e2a39c2a7c1\\res\\values-v13\\values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Mon Dec 04 19:50:19 EET 2017
+base.0=/home/emse/İndirilenler/Proje3-master/app/build/intermediates/transforms/dexMerger/debug/26
+path.0=classes.dex
+renamed.0=classes.dex

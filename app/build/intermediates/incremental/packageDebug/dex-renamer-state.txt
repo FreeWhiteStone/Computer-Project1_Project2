@@ -1,0 +1,7 @@
+#Sat Dec 02 09:38:46 EET 2017
+base.0=C\:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f510a9dc643e73ccacd40ee0516c40f05395b527
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_05a7fcc36e06cbefe542e3d0cfbc6394e701e51a\\classes.dex
+base.1=C\:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_05a7fcc36e06cbefe542e3d0cfbc6394e701e51a
+file.0=C\:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f510a9dc643e73ccacd40ee0516c40f05395b527\\classes.dex

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillAfter="true">
+    <translate
+        android:fromXDelta="0"
+        android:toXDelta="300"
+        android:duration="3000"
+        android:fillAfter="true"/>
+    <translate
+        android:toYDelta="300"
+        android:duration="3000"
+        android:startOffset="3000"
+        android:fillAfter="true"/>
+    <translate
+        android:toXDelta="300"
+        android:duration="3000"
+        android:startOffset="6000"
+        android:fillAfter="true"/>
+    <translate
+        android:toYDelta="300"
+        android:duration="3000"
+        android:startOffset="9000"
+        android:fillAfter="true"/>
+    <translate
+        android:toXDelta="300"
+        android:duration="3000"
+        android:startOffset="12000"
+        android:fillAfter="true"/>
+</set>

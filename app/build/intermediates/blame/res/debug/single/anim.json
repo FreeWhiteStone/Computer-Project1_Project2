@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate_right_up.xml",
+        "source": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\src\\main\\res\\anim\\translate_right_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate_right.xml",
+        "source": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\src\\main\\res\\anim\\translate_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\AzizBaybur\\.android\\build-cache\\22cce891aa94156e5111e5b0c3f7027cfa8d18f4\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bounce.xml",
+        "source": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\src\\main\\res\\anim\\bounce.xml"
+    },
+    {
+        "merged": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\AzizBaybur\\.android\\build-cache\\22cce891aa94156e5111e5b0c3f7027cfa8d18f4\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate_one.xml",
+        "source": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\src\\main\\res\\anim\\translate_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\AzizBaybur\\.android\\build-cache\\22cce891aa94156e5111e5b0c3f7027cfa8d18f4\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\AzizBaybur\\.android\\build-cache\\22cce891aa94156e5111e5b0c3f7027cfa8d18f4\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\AzizBaybur\\.android\\build-cache\\22cce891aa94156e5111e5b0c3f7027cfa8d18f4\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\AzizBaybur\\.android\\build-cache\\22cce891aa94156e5111e5b0c3f7027cfa8d18f4\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate_right_down.xml",
+        "source": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\src\\main\\res\\anim\\translate_right_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\AzizBaybur\\.android\\build-cache\\22cce891aa94156e5111e5b0c3f7027cfa8d18f4\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\AzizBaybur\\.android\\build-cache\\22cce891aa94156e5111e5b0c3f7027cfa8d18f4\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate_three.xml",
+        "source": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\src\\main\\res\\anim\\translate_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate_two.xml",
+        "source": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\src\\main\\res\\anim\\translate_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\AzizBaybur\\.android\\build-cache\\22cce891aa94156e5111e5b0c3f7027cfa8d18f4\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\AzizBaybur\\AndroidStudioProjects\\berati-20171202T070522Z-001\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\AzizBaybur\\.android\\build-cache\\22cce891aa94156e5111e5b0c3f7027cfa8d18f4\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]

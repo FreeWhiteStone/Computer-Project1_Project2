@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/app_path1"
+    tools:context=".MainActivity">
+
+
+    <include layout="@layout/content_main"/>
+
+    <ImageView
+        android:id="@+id/one_boy"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:src="@drawable/character_boy"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="30dp"
+        android:layout_marginLeft="-30dp"/>
+
+    <ImageView
+        android:id="@+id/one_star"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:src="@drawable/star"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="120dp"
+        android:layout_marginLeft="140dp"/>
+
+</RelativeLayout>
